@@ -1,4 +1,4 @@
-KÜFÜR BLOKLAMA
+Küfür Bloklama
 ----------
 
 ![homepage](/images/stop.jpg)
@@ -36,7 +36,7 @@ Kullanılan tüm kütüphaneler Python dilinin doğal kütüphaneleridir.
     güzel kitap
     ```
 
-Referans
+Referanslar
 ----------
 ``blacklist.txt`` dosyası @ooguz çalışmasından alınmıştır. Bkz:
 * [Blacklist](https://github.com/ooguz/turkce-kufur-karaliste)

@@ -3,7 +3,7 @@ Profanity Blocking
 
 ![homepage](/images/stop.jpg)
 
-Installation and USAGE
+Installation and Usage
 ----------
 
 1.  First of all, you need to copy the repository.
@@ -36,7 +36,7 @@ All libraries used are native libraries of the Python language.
     güzel kitap
     ```
 
-Referans
+References
 ----------
 The file ``blacklist.txt`` is taken from @ooguz. See:
 * [Blacklist](https://github.com/ooguz/turkce-kufur-karaliste)

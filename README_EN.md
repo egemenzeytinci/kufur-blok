@@ -23,7 +23,7 @@ All libraries used are native libraries of the Python language.
     >>> app.replace('pipi bok')
     🔞  🔞
     ```
-    ya da
+    or
     ```bash
     >>> from filter import Filter
     >>> app = Filter()

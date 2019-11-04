@@ -9,7 +9,7 @@ Kurulum ve Kullanım
 1.  Her şeyden önce depoyu kopyalamanız gerekmektedir.
 
     ```bash
-    $ git clone https://github.com/egemenzeytinci/kufur-blog.git
+    $ git clone https://github.com/egemenzeytinci/kufur-blok.git
     ```
 
 2.  Kurulum için herhangi bir şey yapmanıza gerek yoktur.

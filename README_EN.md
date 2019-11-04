@@ -9,7 +9,7 @@ Installation and Usage
 1.  First of all, you need to copy the repository.
 
     ```bash
-    $ git clone https://github.com/egemenzeytinci/kufur-blog.git
+    $ git clone https://github.com/egemenzeytinci/kufur-blok.git
     ```
 
 2.  You do not need to do anything for installation.
